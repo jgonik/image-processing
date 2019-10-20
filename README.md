@@ -12,7 +12,7 @@
 
 ## Usage Instructions
 - To use the C++ executable, use the command './imageprocessor "image_name.png"'. For instance, from the build-exe
-directory, call './imageprocessor ../"test.png"'. This generates three images: grayscale.png, blur.png, and edge.png.
+directory, call './imageprocessor "../test.png"'. This generates three images: grayscale.png, blur.png, and edge.png.
 - A simple example of using the wrapped function in Python is found in "build-py/get_edges_python.py". The code is
 repeated here:
 
