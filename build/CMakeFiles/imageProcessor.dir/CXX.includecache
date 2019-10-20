@@ -1,0 +1,378 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/image_processor.cc
+image_processor.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/image_processor.h
+string
+-
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/image_processor.h
+png++/png.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/png.hpp
+string
+-
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/main.cc
+image_processor.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/image_processor.h
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/color.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/config.hpp
+stdlib.h
+-
+endian.h
+-
+machine/endian.h
+-
+sys/_endian.h
+-
+machine/endian.h
+-
+sys/endian.h
+-
+sys/isa_defs.h
+-
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/consumer.hpp
+cassert
+-
+stdexcept
+-
+iostream
+-
+istream
+-
+config.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/config.hpp
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+streaming_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/streaming_base.hpp
+reader.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/reader.hpp
+pixel_buffer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_buffer.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/convert_color_space.hpp
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+rgb_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgb_pixel.hpp
+rgba_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgba_pixel.hpp
+gray_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+ga_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/ga_pixel.hpp
+index_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+reader.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/reader.hpp
+writer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/writer.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/end_info.hpp
+info_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info_base.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+string.h
+-
+string
+-
+stdexcept
+-
+cerrno
+-
+cstdlib
+-
+cstring
+-
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/ga_pixel.hpp
+limits
+-
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/generator.hpp
+cassert
+-
+stdexcept
+-
+iostream
+-
+ostream
+-
+config.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/config.hpp
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+streaming_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/streaming_base.hpp
+writer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/writer.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+packed_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/image.hpp
+fstream
+-
+pixel_buffer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_buffer.hpp
+generator.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/generator.hpp
+consumer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/consumer.hpp
+convert_color_space.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/convert_color_space.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/image_info.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+palette.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/palette.hpp
+tRNS.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/tRNS.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+packed_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info.hpp
+cassert
+-
+info_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info_base.hpp
+image_info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/image_info.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info_base.hpp
+cassert
+-
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/io_base.hpp
+cassert
+-
+cstdio
+-
+cstdarg
+-
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info.hpp
+end_info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/end_info.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/palette.hpp
+vector
+-
+color.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/color.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_buffer.hpp
+cassert
+-
+cstddef
+-
+stdexcept
+-
+vector
+-
+packed_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+gray_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+index_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+limits
+-
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/png.h
+pnglibconf.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pnglibconf.h
+pngconf.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pngconf.h
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/png.hpp
+png.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/png.h
+config.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/config.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+color.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/color.hpp
+palette.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/palette.hpp
+tRNS.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/tRNS.hpp
+packed_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+rgb_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgb_pixel.hpp
+rgba_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgba_pixel.hpp
+gray_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+ga_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/ga_pixel.hpp
+index_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+info_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info_base.hpp
+info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/info.hpp
+end_info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/end_info.hpp
+io_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/io_base.hpp
+reader.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/reader.hpp
+writer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/writer.hpp
+generator.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/generator.hpp
+consumer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/consumer.hpp
+pixel_buffer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_buffer.hpp
+solid_pixel_buffer.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/solid_pixel_buffer.hpp
+require_color_space.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/require_color_space.hpp
+convert_color_space.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/convert_color_space.hpp
+image.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/image.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pngconf.h
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+setjmp.h
+-
+time.h
+-
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pnglibconf.h
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/reader.hpp
+cassert
+-
+io_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/io_base.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/require_color_space.hpp
+error.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/error.hpp
+rgb_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgb_pixel.hpp
+rgba_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgba_pixel.hpp
+gray_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+ga_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/ga_pixel.hpp
+index_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+io_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/io_base.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgb_pixel.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/rgba_pixel.hpp
+types.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/solid_pixel_buffer.hpp
+cassert
+-
+cstddef
+-
+climits
+-
+stdexcept
+-
+vector
+-
+config.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/config.hpp
+packed_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/packed_pixel.hpp
+gray_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/gray_pixel.hpp
+index_pixel.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/index_pixel.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/streaming_base.hpp
+cassert
+-
+image_info.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/image_info.hpp
+pixel_traits.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/pixel_traits.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/tRNS.hpp
+vector
+-
+color.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/color.hpp
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/types.hpp
+png.h
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/png.h
+
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/writer.hpp
+cassert
+-
+io_base.hpp
+/Users/juliagonik/Dropbox (MIT)/Sophomore Year/UROP/image_processing_coding_challenge/png++/io_base.hpp
+
