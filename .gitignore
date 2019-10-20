@@ -1,1 +1,2 @@
-CMakeCache.txt
+./build-exe/CMakeCache.txt
+./build-py/CMakeCache.txt
